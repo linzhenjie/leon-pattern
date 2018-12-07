@@ -5,9 +5,9 @@
  * @Author: linzj
  * @Date:   2018-06-20 09:54:50
  * @Last Modified by:   linzj
- * @Last Modified time: 2018-06-22 16:42:23
+ * @Last Modified time: 2018-12-07 11:27:50
  */
-namespace Esunphp\Pattern;
+namespace Leonphp\Pattern;
 
 trait Singleton
 {

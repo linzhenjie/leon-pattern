@@ -1,15 +1,15 @@
-# EsunPHP
+# LeonPHP Pattern
 
 提供设计模式
 
-    Esunphp\Pattern\Singleton  单例
-    Esunphp\Pattern\Multiton   多例
+    Leonphp\Pattern\Singleton  单例
+    Leonphp\Pattern\Multiton   多例
 
 
 使用方式：
 
-    namespace Esunphp\Mvc;
-    use Esunphp\Pattern\Multiton;
+    namespace Leonphp\Mvc;
+    use Leonphp\Pattern\Multiton;
     
     class View
     {
